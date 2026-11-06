@@ -1,0 +1,27 @@
+# Default deny: add only reviewed public paths below.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/THIRD_PARTY_NOTICES.md
+!/affine-catppuccin-mocha.css
+!/palette/
+!/palette/mocha.json
+!/palette/LICENSE
+!/compatibility/
+!/compatibility/upstream-token-names.json
+!/scripts/
+!/scripts/build.py
+!/scripts/bundle.py
+!/tests/
+!/tests/test_theme.py
+!/tests/test_bundle.py
+!/tests/test_public.py
+!/docs/
+!/docs/install.md
+!/docs/preview.png
+!/docs/settings.png
+!/.github/
+!/.github/workflows/
+!/.github/workflows/test.yml
